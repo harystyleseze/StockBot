@@ -9,7 +9,7 @@ StockBot is a real-time stock market information bot that allows users to easily
 
 ### **Deployed Link:**
 
-[StockBot Live](https://stockbot-ialm.onrender.com)
+[StockBot Deployed Site](https://stockbot-ialm.onrender.com)
 
 ### **YouTube Live Demo:**
 
