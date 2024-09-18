@@ -1,31 +1,31 @@
----
-
 # **StockBot: Your Real-Time Stock Market Companion**
 
 ![image](https://www.cxtoday.com/wp-content/uploads/2020/12/Twilio-WhatsApp-Partnership-to-Enhance-Developer-Experience.jpg)  
-*"Get real-time stock market updates on WhatsApp with ease."*
+_"Get real-time stock market updates on WhatsApp with ease."_
 
 ## **Introduction**
 
 StockBot is a real-time stock market information bot that allows users to easily check stock prices directly through WhatsApp. The application leverages the Twilio API for WhatsApp messaging and the MarketStack API for fetching stock data. Whether you're an active trader or an investor monitoring stocks, StockBot makes it easy to stay updated with real-time data in the simplest and most convenient way.
 
-### **Deployed Link:**  
+### **Deployed Link:**
+
 [StockBot Live](https://stockbot-ialm.onrender.com)
 
-### **YouTube Live Demo:**  
+### **YouTube Live Demo:**
+
 [StockBot Live](https://youtu.be/U4Zgmqc1s9U)
 
-### **Website:**  
+### **Website:**
+
 [StockBot Website](https://stockbot.framer.ai/)
 
+### **Final Project Blog Article:**
 
-### **Final Project Blog Article:**  
 [Read my journey behind StockBot](https://medium.com/@ebukaharrison6/building-stockbot-bringing-real-time-stock-market-data-to-whatsapp-users-a7465798cf9b)
 
-### **Author: Harrison Eze**  
-[LinkedIn](https://www.linkedin.com/in/harrison-eze)
+### **Author: Harrison Eze**
 
----
+[LinkedIn](https://www.linkedin.com/in/harrison-eze)
 
 ## **Table of Contents**
 
